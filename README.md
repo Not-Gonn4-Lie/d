@@ -1,4 +1,4 @@
-# homo and non
+
 import numpy as np
 
 matrix_X = np.array([[1,2,3],
